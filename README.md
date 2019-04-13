@@ -20,3 +20,10 @@
 程序运行效果如下：
 
 ![redPocket](https://github.com/PeachLuis/RedPocket/blob/master/image/redPocket.gif)
+# 学习情况
+
+java跳着看java核心技术卷一和一些博客，大致学完了继承，抽象，接口，lambda表达式，多线程只是看了一些基础概念和一些博客上总结的实现方式什么的
+
+Android还没有继续
+# 难点
+抢红包方法各种情况的实现方式
